@@ -1,6 +1,6 @@
-token=YOUR BOT TOKEN HERE
-owner=YOUR OWNER ID HERE
-prefix=YOUR PREFIX HERE!!!
-game=Alpha Bots!
+token=NDkzMjk5MTQwNTA4NTE2MzUz.Doi8Pg.EZ3euz9n_h7qqWWXPF3DV3RkAz0
+owner=453000825975996416
+prefix=O9
+game=
 stayinchannel=true
-songinstatus=true
+songinstatus=false
